@@ -1,7 +1,7 @@
-== README
+練習用Rails4プロジェクト
+==================================================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+JRuby4, Rails4.1を使った練習用プロジェクト。
 
 Things you may want to cover:
 
@@ -23,6 +23,10 @@ Things you may want to cover:
 
 * ...
 
+License
+-------
+Copyright (c) 2015 Satoshi OKANO. Distributed under the MIT License. See LICENSE.txt for further details.
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+2015/03/10
+
+satokano@gmail.com
