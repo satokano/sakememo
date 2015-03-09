@@ -1,7 +1,7 @@
 練習用Rails4プロジェクト
 ==================================================
 
-JRuby4, Rails4.1を使った練習用プロジェクト。
+JRuby1.7, Rails4.1を使った練習用プロジェクト。
 
 [![Build Status](https://travis-ci.org/satokano/sakememo.svg)](https://travis-ci.org/satokano/sakememo)
 [![Code Climate](https://codeclimate.com/github/satokano/sakememo/badges/gpa.svg)](https://codeclimate.com/github/satokano/sakememo)
