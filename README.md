@@ -3,6 +3,10 @@
 
 JRuby4, Rails4.1を使った練習用プロジェクト。
 
+[![Build Status](https://travis-ci.org/satokano/sakememo.svg)](https://travis-ci.org/satokano/sakememo)
+[![Code Climate](https://codeclimate.com/github/satokano/sakememo/badges/gpa.svg)](https://codeclimate.com/github/satokano/sakememo)
+[![Test Coverage](https://codeclimate.com/github/satokano/sakememo/badges/coverage.svg)](https://codeclimate.com/github/satokano/sakememo)
+
 Things you may want to cover:
 
 * Ruby version
